@@ -11,7 +11,7 @@ import sun.audio.*;
  * Note not.   : # notation
  * Example     : C1 D1 E1 F1 G# A1 B1 C2
  * Output      : audio
- * Author      : Sowmiya Nagarajan-CSE15353
+ * Author      : Sowmiya Nagarajan
  */
 
 public class Audio1
